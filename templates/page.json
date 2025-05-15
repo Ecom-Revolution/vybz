@@ -1,9 +1,20 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main-page": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "heading_size": "title-xl tracking-heading",
+        "heading_alignment": "text-left",
         "heading_tag": "h1",
         "text_size": "text-base",
         "padding_top": 72,
@@ -12,9 +23,143 @@
         "narrow": true,
         "rounded": false
       }
+    },
+    "rich_text_9jn6XA": {
+      "type": "rich-text",
+      "blocks": {
+        "text_GMzQUD": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Des écouteurs qui tombent, des casques encombrants, des instants volés à la réalité.</p><p>On voulait <strong>entendre sans s’isoler</strong>, <strong>vibrer sans se couper du monde</strong>, vivre chaque moment avec style et liberté.</p>",
+            "text_size": "subtext-md",
+            "text_max_size": 32,
+            "text_font": "body",
+            "secondary_color": false,
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "text_7taDht": {
+          "type": "text",
+          "settings": {
+            "text": "<p>C’est pour ça qu’en 2023, on a décidé de <strong>changer les règles</strong>.<br/><br/>Créer une nouvelle façon d’écouter : plus <strong>fluide</strong>, plus <strong>libre</strong>, plus <strong>alignée</strong> avec la ville et son énergie.</p>",
+            "text_size": "subtext-md",
+            "text_max_size": 32,
+            "text_font": "body",
+            "secondary_color": false,
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        }
+      },
+      "block_order": [
+        "text_GMzQUD",
+        "text_7taDht"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "text_alignment": "center",
+        "text_alignment_mobile": "center",
+        "heading": "<em>VYBZ</em>. Redéfinir le rythme du quotidien.",
+        "heading_size": "title-md",
+        "heading_alignment": "text-center md:items-center",
+        "heading_width": "small",
+        "heading_tag": "h2",
+        "subheading": "",
+        "description": "<p>Chez VYBZ, on en a eu <strong>assez du bruit parasite</strong>.</p>",
+        "button_label": "",
+        "button_link": "",
+        "button_external": false,
+        "button_icon": true,
+        "highlighted_text": "text",
+        "highlighted_scribble": "circle",
+        "color_text": "",
+        "color_background": "",
+        "gradient_background": "",
+        "color_highlight": "",
+        "gradient_highlight": "linear-gradient(136deg, rgba(255, 0, 51, 1), rgba(255, 255, 255, 1) 100%)",
+        "color_button_text": "",
+        "color_button_background": "",
+        "color_button_gradient": "",
+        "padding_top": 32,
+        "padding_bottom": 32,
+        "divider": false,
+        "narrow": false,
+        "rounded": false
+      }
+    },
+    "image_with_text_overlay_iBtELK": {
+      "type": "image-with-text-overlay",
+      "blocks": {
+        "subheading_hLHY4E": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "Add a tagline",
+            "subheading_size": "subtitle-md",
+            "secondary_color": true
+          }
+        },
+        "heading_a9Q8ye": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image with text overlay",
+            "heading_size": "title-lg tracking-heading",
+            "heading_tag": "h2",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "text_Ld4GPj": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "text_size": "subtext-md",
+            "text_max_size": 32,
+            "text_font": "body",
+            "secondary_color": false,
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_hLHY4E",
+        "heading_a9Q8ye",
+        "text_Ld4GPj"
+      ],
+      "name": "t:sections.image-with-text-overlay.presets.name",
+      "settings": {
+        "transparent_header": false,
+        "image": "shopify://shop_images/8B6ED4DB-4900-4EC4-9797-E0627980D196.png",
+        "image_height": "650px",
+        "content_width": "small",
+        "content_position": "md:items-end md:justify-start",
+        "text_alignment": "left",
+        "image_mobile": "shopify://shop_images/5EFCA5E5-5FDB-46BF-9FC6-227146C2C10E.png",
+        "image_height_mobile": "auto",
+        "content_position_mobile": "items-end justify-start",
+        "text_alignment_mobile": "left",
+        "color_text": "#ffffff",
+        "color_highlight": "#e0a580",
+        "gradient_highlight": "",
+        "color_button_text": "#171717",
+        "color_button_background": "#ffffff",
+        "color_button_gradient": "",
+        "color_overlay": "#171717",
+        "overlay_opacity": 70,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "divider": false,
+        "full_width": true,
+        "rounded": false,
+        "enable_parallax": true,
+        "parallax_direction": "vertical"
+      }
     }
   },
   "order": [
-    "main-page"
+    "main-page",
+    "rich_text_9jn6XA",
+    "image_with_text_overlay_iBtELK"
   ]
 }
