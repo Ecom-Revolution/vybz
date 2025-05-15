@@ -143,7 +143,7 @@
       "settings": {
         "transparent_header": false,
         "image": "shopify://shop_images/8B6ED4DB-4900-4EC4-9797-E0627980D196.png",
-        "image_height": "adapt",
+        "image_height": "750px",
         "content_width": "small",
         "content_position": "md:items-center md:justify-center",
         "text_alignment": "center",
