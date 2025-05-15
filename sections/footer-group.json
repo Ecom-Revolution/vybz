@@ -111,8 +111,8 @@
         "link_list-1": {
           "type": "link_list",
           "settings": {
-            "heading": "Quick links",
-            "menu": "footer",
+            "heading": "MENU VYBZ™",
+            "menu": "main-menu",
             "container_width": 50,
             "opened": false
           }
