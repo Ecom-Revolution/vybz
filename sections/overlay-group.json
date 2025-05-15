@@ -203,7 +203,7 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "We use cookies",
+            "heading": "VYBZ optimise votre expérience",
             "heading_size": "text-lg-2xl",
             "heading_tag": "h2",
             "highlighted_text": "none",
@@ -213,7 +213,7 @@
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>This site uses cookies for better user experience and analytics.</p>",
+            "text": "<p>Nous utilisons des cookies pour améliorer votre navigation et analyser nos performances.</p>",
             "text_size": "text-base",
             "text_max_size": 32,
             "text_font": "body",
@@ -245,7 +245,7 @@
       ],
       "settings": {
         "mode": "enabled",
-        "delay": 5,
+        "delay": 9,
         "text_alignment": "center",
         "content_position": "left-0",
         "color_drawer_text": "#ffffff",
