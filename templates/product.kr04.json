@@ -23,7 +23,7 @@
         "heading_tVTVyV": {
           "type": "heading",
           "settings": {
-            "heading": "L’audace se porte. Le son se ressent.",
+            "heading": "La discrétion devient une signature. Le son reste une arme.",
             "heading_size": "title-sm",
             "heading_tag": "h2",
             "highlighted_text": "none",
@@ -48,7 +48,7 @@
         "content_position_mobile": "items-end justify-start",
         "text_alignment_mobile": "left",
         "color_text": "#ffffff",
-        "color_highlight": "#b91c1c",
+        "color_highlight": "#ffffff",
         "gradient_highlight": "",
         "color_button_text": "#171717",
         "color_button_background": "#ffffff",
