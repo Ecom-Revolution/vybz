@@ -1,11 +1,22 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main-blog": {
       "type": "main-blog",
+      "disabled": true,
       "settings": {
         "heading_size": "title-xl tracking-heading",
         "heading_alignment": "text-center justify-center",
         "heading_tag": "h1",
+        "subheading": "",
         "description": "",
         "show_tag_filter": true,
         "per_page": 9,
@@ -22,9 +33,139 @@
         "full_width": false,
         "rounded": false
       }
+    },
+    "rich_text_GxURgX": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_zFqntF": {
+          "type": "heading",
+          "settings": {
+            "heading": "Le blog <em><strong>VYBZ</strong></em> arrive très bientôt",
+            "heading_size": "title-md",
+            "heading_tag": "h2",
+            "highlighted_text": "text",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "text_PNCefK": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Inspiration urbaine, innovation wearable, culture tech… prépare-toi à entrer dans la vibe.</p>",
+            "text_size": "subtext-md",
+            "text_max_size": 32,
+            "text_font": "body",
+            "secondary_color": false,
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        }
+      },
+      "block_order": [
+        "heading_zFqntF",
+        "text_PNCefK"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "text_alignment": "center",
+        "text_alignment_mobile": "center",
+        "heading": "",
+        "heading_size": "title-md",
+        "heading_alignment": "text-left md:items-end md:flex-row",
+        "heading_width": "small",
+        "heading_tag": "h2",
+        "subheading": "",
+        "description": "",
+        "button_label": "",
+        "button_link": "",
+        "button_external": false,
+        "button_icon": true,
+        "highlighted_text": "none",
+        "highlighted_scribble": "circle",
+        "color_text": "",
+        "color_background": "",
+        "gradient_background": "",
+        "color_highlight": "",
+        "gradient_highlight": "",
+        "color_button_text": "",
+        "color_button_background": "",
+        "color_button_gradient": "",
+        "padding_top": 20,
+        "padding_bottom": 20,
+        "divider": false,
+        "narrow": true,
+        "rounded": false
+      }
+    },
+    "images_with_text_rMbHda": {
+      "type": "images-with-text",
+      "blocks": {
+        "heading_iRWfXU": {
+          "type": "heading",
+          "settings": {
+            "heading": "<em>Bientôt en ligne</em>",
+            "heading_size": "title-md",
+            "heading_tag": "h2",
+            "highlighted_text": "scribble",
+            "highlighted_scribble": "squiggle-underline"
+          }
+        },
+        "text_VE6UX7": {
+          "type": "text",
+          "settings": {
+            "text": "<p>On te prépare un espace unique pour explorer l’univers <strong>VYBZ</strong> au-delà du produit.<br/><br/>Astuces lifestyle, coulisses de la marque, drops à venir, interviews exclusives, idées de looks & routines audio connectées…</p><p>Notre blog débarque dans <strong>quelques semaines</strong> pour t’inspirer, te guider, et connecter la <strong>tech</strong> au <strong>style de rue</strong>.</p><p><strong>Reste connecté à l’énergie.</strong></p>",
+            "text_size": "subtext-md",
+            "text_max_size": 32,
+            "text_font": "body",
+            "secondary_color": false,
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "button_W4JjVY": {
+          "type": "button",
+          "settings": {
+            "button_label": "Découvrir VYBZ",
+            "button_link": "shopify://products/kr-01-blaze-red",
+            "button_style": "primary",
+            "button_size": "md",
+            "button_external": false,
+            "button_icon": true
+          }
+        }
+      },
+      "block_order": [
+        "heading_iRWfXU",
+        "text_VE6UX7",
+        "button_W4JjVY"
+      ],
+      "name": "t:sections.images-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/6A9B333D-E9E6-4667-9953-E7E28FA8E5FD.png",
+        "image_ratio": "portrait",
+        "image_width": "small",
+        "layout": "text_first",
+        "text_alignment": "center",
+        "text_alignment_mobile": "center",
+        "color_text": "",
+        "color_background": "",
+        "gradient_background": "",
+        "color_highlight": "",
+        "gradient_highlight": "",
+        "color_button_text": "",
+        "color_button_background": "",
+        "color_button_gradient": "",
+        "padding_top": 0,
+        "padding_bottom": 32,
+        "divider": false,
+        "full_width": false,
+        "rounded": false,
+        "enable_parallax": true
+      }
     }
   },
   "order": [
-    "main-blog"
+    "main-blog",
+    "rich_text_GxURgX",
+    "images_with_text_rMbHda"
   ]
 }
