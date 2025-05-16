@@ -357,147 +357,6 @@
         "lazy": true
       }
     },
-    "productvideo_3EeYgx": {
-      "type": "productvideo",
-      "blocks": {
-        "video_nw4AQh": {
-          "type": "video",
-          "settings": {
-            "video": "shopify://files/videos/copy_551F9E89-5DF9-49A2-802D-CAB057544A0B.mov",
-            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-            "info": "KR01 - Blaze Red",
-            "url": "shopify://products/kr-01-blaze-red"
-          }
-        },
-        "video_jrg3Lz": {
-          "type": "video",
-          "settings": {
-            "video": "shopify://files/videos/copy_9A7A5E34-4153-4F17-9857-2CE1C76D8955.mov",
-            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-            "info": "KR02 - BlueStrike",
-            "url": "shopify://products/kr-02-bluestrike"
-          }
-        },
-        "video_mR6nFT": {
-          "type": "video",
-          "settings": {
-            "video": "shopify://files/videos/copy_D32C778F-7419-4256-BEC3-9BE11DF615DA.mov",
-            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-            "info": "KR03 - Shadow",
-            "url": "shopify://products/kr-03-urban-classic-copie"
-          }
-        },
-        "video_eRwwTP": {
-          "type": "video",
-          "settings": {
-            "video": "shopify://files/videos/copy_B4B27977-F221-410E-AEC0-AC757D4F9DC9.mov",
-            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-            "info": "KR 04 - Nova Pink",
-            "url": ""
-          }
-        },
-        "video_QiMWaB": {
-          "type": "video",
-          "settings": {
-            "video": "shopify://files/videos/copy_1C0FEED1-7038-44F2-A7AC-0097210396E5.mov",
-            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-            "info": "KR05 - Urban Classic",
-            "url": "shopify://products/kr-03-urban-classic"
-          }
-        }
-      },
-      "block_order": [
-        "video_nw4AQh",
-        "video_jrg3Lz",
-        "video_mR6nFT",
-        "video_eRwwTP",
-        "video_QiMWaB"
-      ],
-      "name": "SS - Video Grid Socials #3",
-      "settings": {
-        "heading": "",
-        "heading_custom": false,
-        "heading_font": "josefin_sans_n4",
-        "heading_size": 36,
-        "heading_size_mobile": 26,
-        "heading_height": 130,
-        "heading_align": "center",
-        "heading_align_mobile": "center",
-        "sub_heading": "",
-        "sub_heading_custom": false,
-        "sub_heading_font": "josefin_sans_n4",
-        "sub_heading_size": 18,
-        "sub_heading_size_mobile": 16,
-        "sub_heading_height": 150,
-        "sub_heading_align": "center",
-        "sub_heading_align_mobile": "center",
-        "sub_heading_mt": 0,
-        "sub_heading_mt_mobile": 0,
-        "slider_view": 5,
-        "slider_view_mobile": 1.3,
-        "slider_gap": 20,
-        "slider_gap_mobile": 20,
-        "slider_mt": 24,
-        "slider_mt_mobile": 16,
-        "card_radius": 20,
-        "card_border_thickness": 0,
-        "video_ratio": "portrait",
-        "video_ratio_mobile": "portrait",
-        "info_custom": false,
-        "info_font": "josefin_sans_n4",
-        "info_size": 15,
-        "info_size_mobile": 18,
-        "info_height": 150,
-        "info_align": "center",
-        "info_align_mobile": "center",
-        "arrow_size": 48,
-        "arrow_size_mobile": 48,
-        "arrow_icon_size": 8,
-        "arrow_icon_size_mobile": 8,
-        "arrow_border_thickness": 1,
-        "arrow_radius": 100,
-        "arrow_hover_effect": "color",
-        "arrow_show_desktop": false,
-        "arrow_show_mobile": false,
-        "action_size": 48,
-        "action_size_mobile": 48,
-        "action_icon_size": 28,
-        "action_icon_size_mobile": 28,
-        "action_border_thickness": 0,
-        "card_border_color": "#000000",
-        "info_color": "#ffffff",
-        "arrow_color": "#000000",
-        "arrow_hover_color": "#ffffff",
-        "arrow_bg_color": "#ffffff",
-        "arrow_bg_hover_color": "#555555",
-        "arrow_border_color": "#f6f6f6",
-        "arrow_border_hover_color": "#555555",
-        "action_color": "#ffffff",
-        "action_hover_color": "#ffffff",
-        "action_bg_color": "#ffffff",
-        "action_bg_hover_color": "#ffffff",
-        "action_border_color": "#ffffff",
-        "action_border_hover_color": "#ffffff",
-        "heading_color": "#000000",
-        "sub_heading_color": "#000000",
-        "background_color": "#171717",
-        "background_gradient": "",
-        "border_color": "#000000",
-        "margin_top": 0,
-        "margin_bottom": 0,
-        "margin_horizontal": 0,
-        "margin_horizontal_mobile": 0,
-        "padding_top": 0,
-        "padding_bottom": 0,
-        "padding_horizontal": 5,
-        "padding_horizontal_mobile": 1.5,
-        "full_width": true,
-        "content_width": 120,
-        "border_thickness": 0,
-        "section_radius": 0,
-        "lazy": true
-      }
-    },
     "videslider_6UignC": {
       "type": "videslider",
       "blocks": {
@@ -554,6 +413,7 @@
         "slide_bzyabr",
         "slide_9CinCH"
       ],
+      "disabled": true,
       "name": "SS - Video Slider",
       "settings": {
         "slider_view": 5,
@@ -655,7 +515,7 @@
         "carousel_on_desktop": true,
         "show_view_all": false,
         "columns_mobile": "2",
-        "swipe_on_mobile": true,
+        "swipe_on_mobile": false,
         "heading": "",
         "heading_size": "title-md",
         "heading_alignment": "text-left md:items-end md:flex-row",
@@ -1163,10 +1023,9 @@
     "image_with_text_overlay_iDihFt",
     "scrolling_text_WtJytJ",
     "videoproduct_XAkpTU",
-    "productvideo_3EeYgx",
     "videslider_6UignC",
-    "featured_collection_QwFt39",
     "reveal_image_with_text_overlay_ADkGKC",
+    "featured_collection_QwFt39",
     "images_with_text_overlay_cLaiaX",
     "scrolling-text-1",
     "shop-the-feed",
