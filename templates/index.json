@@ -113,6 +113,99 @@
         "rounded": false
       }
     },
+    "collage_UG3gDj": {
+      "type": "collage",
+      "blocks": {
+        "video_KtJJA9": {
+          "type": "video",
+          "settings": {
+            "subheading": "",
+            "heading": "",
+            "link": "shopify://products/kr-01-blaze-red",
+            "invert_subheading_heading": false,
+            "video": "shopify://files/videos/copy_C3F06A34-654F-4302-96C6-4BC19CBE4EBD.mov",
+            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "description": "",
+            "enable_video_autoplay": true,
+            "enable_video_looping": false,
+            "image_ratio": "portrait",
+            "content_position": "md:items-end md:justify-start",
+            "text_alignment": "left",
+            "video_url_mobile": "",
+            "image_ratio_mobile": "landscape",
+            "content_position_mobile": "items-end justify-start",
+            "text_alignment_mobile": "left",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle",
+            "color_text": "#ffffff",
+            "color_highlight": "",
+            "gradient_highlight": "",
+            "color_overlay": "#171717",
+            "overlay_opacity": 10
+          }
+        },
+        "video_PYWW8H": {
+          "type": "video",
+          "settings": {
+            "subheading": "",
+            "heading": "",
+            "link": "",
+            "invert_subheading_heading": false,
+            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "description": "",
+            "enable_video_autoplay": false,
+            "enable_video_looping": false,
+            "image_ratio": "landscape",
+            "content_position": "md:items-end md:justify-start",
+            "text_alignment": "left",
+            "video_url_mobile": "",
+            "image_ratio_mobile": "landscape",
+            "content_position_mobile": "items-end justify-start",
+            "text_alignment_mobile": "left",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle",
+            "color_text": "#ffffff",
+            "color_highlight": "",
+            "gradient_highlight": "",
+            "color_overlay": "#171717",
+            "overlay_opacity": 10
+          }
+        }
+      },
+      "block_order": [
+        "video_KtJJA9",
+        "video_PYWW8H"
+      ],
+      "name": "t:sections.collage.presets.name",
+      "settings": {
+        "heading": "",
+        "heading_size": "title-md",
+        "heading_alignment": "text-left md:items-end md:flex-row",
+        "heading_tag": "h2",
+        "subheading": "",
+        "description": "",
+        "button_label": "",
+        "button_link": "",
+        "button_external": false,
+        "button_icon": true,
+        "highlighted_text": "none",
+        "highlighted_scribble": "circle",
+        "color_text": "",
+        "color_background": "",
+        "gradient_background": "",
+        "color_highlight": "",
+        "gradient_highlight": "",
+        "color_button_text": "",
+        "color_button_background": "",
+        "color_button_gradient": "",
+        "padding_top": 72,
+        "padding_bottom": 72,
+        "divider": false,
+        "full_width": true,
+        "rounded": false,
+        "enable_parallax": false
+      }
+    },
     "videslider_6UignC": {
       "type": "videslider",
       "blocks": {
@@ -757,6 +850,7 @@
   "order": [
     "image_with_text_overlay_iDihFt",
     "scrolling_text_WtJytJ",
+    "collage_UG3gDj",
     "videslider_6UignC",
     "featured_collection_QwFt39",
     "reveal_image_with_text_overlay_ADkGKC",
