@@ -48,7 +48,7 @@
         "content_position_mobile": "items-center justify-start",
         "text_alignment_mobile": "center",
         "color_text": "#ffffff",
-        "color_highlight": "#b91c1c",
+        "color_highlight": "#8f00ff",
         "gradient_highlight": "",
         "color_button_text": "#171717",
         "color_button_background": "#ffffff",
@@ -70,7 +70,7 @@
         "text_AY7phR": {
           "type": "text",
           "settings": {
-            "text": "🔥  🔥",
+            "text": "🔥 OFFRE EXCLUSIVE POUR LES 20 PREMIÈRES COMMANDE 🔥",
             "text_size": 36,
             "text_font": "body",
             "highlighted_text": "text",
@@ -93,7 +93,7 @@
         "text_dtMry6"
       ],
       "custom_css": [
-        ".scrolling-text__item {color: #ff0033 !important; text-shadow: 0 0 10px #ff0033 !important; font-weight: 700 !important;}"
+        ".scrolling-text__item {color: #8f00ff !important; text-shadow: 0 0 10px #ff0033 !important; font-weight: 700 !important;}"
       ],
       "name": "t:sections.scrolling-text.presets.name",
       "settings": {
@@ -651,7 +651,7 @@
         "content_position_mobile": "items-end justify-start",
         "text_alignment_mobile": "left",
         "color_text": "#ffffff",
-        "color_highlight": "#b91c1c",
+        "color_highlight": "#8f00ff",
         "gradient_highlight": "",
         "color_button_text": "#171717",
         "color_button_background": "#ffffff",
@@ -700,7 +700,7 @@
         "grid_horizontal": 70,
         "enable_twin": false,
         "enable_parallax": true,
-        "color_text": "#b91c1c",
+        "color_text": "#8f00ff",
         "color_background": "",
         "gradient_background": "",
         "color_highlight": "",
@@ -961,7 +961,7 @@
         "color_highlight": "",
         "gradient_highlight": "",
         "color_button_text": "#ffffff",
-        "color_button_background": "#ff0033",
+        "color_button_background": "#8f00ff",
         "color_button_gradient": "",
         "color_overlay": "#ffffff",
         "overlay_opacity": 4,
