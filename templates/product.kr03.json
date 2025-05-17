@@ -890,6 +890,41 @@
         "parallax_direction": "vertical"
       }
     },
+    "featured_collection_izqT7m": {
+      "type": "featured-collection",
+      "name": "t:sections.featured-collection.presets.name",
+      "settings": {
+        "collection": "frontpage",
+        "products": [],
+        "product_limit": 6,
+        "columns": 4,
+        "carousel_on_desktop": true,
+        "show_view_all": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "heading": "",
+        "heading_size": "title-md",
+        "heading_alignment": "text-left md:items-end md:flex-row",
+        "heading_tag": "h2",
+        "subheading": "",
+        "description": "",
+        "highlighted_text": "none",
+        "highlighted_scribble": "circle",
+        "color_text": "",
+        "color_background": "",
+        "gradient_background": "",
+        "color_highlight": "",
+        "gradient_highlight": "",
+        "color_button_text": "",
+        "color_button_background": "",
+        "color_button_gradient": "",
+        "padding_top": 8,
+        "padding_bottom": 16,
+        "divider": false,
+        "full_width": false,
+        "rounded": false
+      }
+    },
     "rich_text_JfAe6Y": {
       "type": "rich-text",
       "blocks": {
@@ -1196,6 +1231,7 @@
     "main-product",
     "help-drawer",
     "image-with-text-1",
+    "featured_collection_izqT7m",
     "rich_text_JfAe6Y",
     "slideshow_R6U8j3",
     "faq",
