@@ -943,6 +943,20 @@
     "slideshow_R6U8j3": {
       "type": "slideshow",
       "blocks": {
+        "image_fnJKxL": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/ChatGPT_Image_17_mai_2025_17_31_15.png",
+            "heading": "KR01-Blaze Red",
+            "heading_size": "title-sm",
+            "heading_tag": "h2",
+            "button_label": "Découvrir",
+            "button_link": "shopify://products/kr-01-blaze-red",
+            "button_style": "secondary",
+            "button_external": false,
+            "button_icon": false
+          }
+        },
         "image_xA4Tex": {
           "type": "image",
           "settings": {
@@ -961,7 +975,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/DDBF47D7-A9C3-4F16-8EAA-E989E03C5D81.png",
-            "heading": "KR03-Urban Classic",
+            "heading": "KR05-Urban Classic",
             "heading_size": "title-sm",
             "heading_tag": "h2",
             "button_label": "Découvrir",
@@ -973,6 +987,7 @@
         }
       },
       "block_order": [
+        "image_fnJKxL",
         "image_xA4Tex",
         "image_ibHmAy"
       ],
