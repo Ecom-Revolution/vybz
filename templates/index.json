@@ -72,7 +72,7 @@
           "settings": {
             "text": "<em><strong>STOCK LIMITÉ</strong></em>",
             "text_size": 78,
-            "text_font": "body",
+            "text_font": "heading",
             "highlighted_text": "stencil",
             "highlighted_scribble": "circle"
           }
@@ -82,7 +82,7 @@
           "settings": {
             "text": "<em>ÉDITION LIMITÉE</em>",
             "text_size": 80,
-            "text_font": "body",
+            "text_font": "heading",
             "highlighted_text": "stencil",
             "highlighted_scribble": "circle"
           }
@@ -118,7 +118,7 @@
           "settings": {
             "text": "<em><strong>🔥 OFFRE EXCLUSIVE POUR LES 20 PREMIÈRES COMMANDE 🔥</strong></em>",
             "text_size": 36,
-            "text_font": "body",
+            "text_font": "heading",
             "highlighted_text": "text",
             "highlighted_scribble": "circle"
           }
@@ -128,7 +128,7 @@
           "settings": {
             "text": "<em><strong>⚡ STOCK LIMITÉ, ÉDITION EXCLUSIVE VYBZ. ⚡</strong></em>",
             "text_size": 36,
-            "text_font": "body",
+            "text_font": "heading",
             "highlighted_text": "text",
             "highlighted_scribble": "circle"
           }
