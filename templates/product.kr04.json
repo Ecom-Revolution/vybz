@@ -23,7 +23,7 @@
         "heading_tVTVyV": {
           "type": "heading",
           "settings": {
-            "heading": "La discrétion devient une signature. Le son reste une arme.",
+            "heading": "La discrétion devient ton style. Le son, ton arme.",
             "heading_size": "title-sm",
             "heading_tag": "h2",
             "highlighted_text": "none",
@@ -116,7 +116,7 @@
         "subheading_8VHJQL": {
           "type": "subheading",
           "settings": {
-            "subheading": "Allume ton flow. Enflamme la rue",
+            "subheading": "Silence. Style. Son puissant.",
             "subheading_size": "subtitle-sm",
             "secondary_color": true
           }
@@ -124,7 +124,7 @@
         "heading_NtwMHH": {
           "type": "heading",
           "settings": {
-            "heading": "Blaze Red - L'impact à chaque battement.",
+            "heading": "Shadow – L’audio qui joue la carte du mystère.",
             "heading_size": "title-sm",
             "heading_tag": "h2",
             "highlighted_text": "none",
@@ -134,7 +134,7 @@
         "text_B4mLrR": {
           "type": "text",
           "settings": {
-            "text": "<p>Design flamboyant, son HD integré, verres miroir irisés. La KR-01 ne suit pas la tendance, elle la déclenche. Une édition pensée pour ceux qui marchen avec style et s'expriment en décibels.</p>",
+            "text": "<p>Discrétion maximale, son immersif, look furtif. La KR-03 Shadow casse les codes avec ses verres fumés et son design total black. Parfaite pour ceux qui préfèrent laisser parler leur flow… sans en dire trop.</p>",
             "text_size": "subtext-sm",
             "text_max_size": 32,
             "text_font": "body",
@@ -381,7 +381,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/30_avr._2025_17_09_03.png",
+        "image": "shopify://shop_images/Lunettesdesportnoiresminimalistes.png",
         "image_height": "650px",
         "image_width": "medium",
         "layout": "text_first",
