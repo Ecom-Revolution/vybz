@@ -15,7 +15,7 @@
         "subheading_WAnTej": {
           "type": "subheading",
           "settings": {
-            "subheading": "KR-03 Urban Classic",
+            "subheading": "KR-05 Urban Classic",
             "subheading_size": "subtitle-md",
             "secondary_color": true
           }
@@ -134,7 +134,7 @@
         "text_B4mLrR": {
           "type": "text",
           "settings": {
-            "text": "<p>Design minimal, son HD intégré, lignes noires affûtées.<br/>La KR-03 ne fait pas de vague, elle impose le respect.<br/>Une édition pour ceux qui laissent parler le silence  jusqu’à ce que le son prenne le relais.</p>",
+            "text": "<p>Design minimal, son HD intégré, lignes noires affûtées.<br/>La KR-05 ne fait pas de vague, elle impose le respect.<br/>Une édition pour ceux qui laissent parler le silence  jusqu’à ce que le son prenne le relais.</p>",
             "text_size": "subtext-sm",
             "text_max_size": 32,
             "text_font": "body",
@@ -155,7 +155,7 @@
         "content_width": "small",
         "content_position": "md:items-end md:justify-center",
         "text_alignment": "center",
-        "image_mobile": "shopify://shop_images/C7E5128D-CF64-4794-BDBB-9DD332481C57.png",
+        "image_mobile": "shopify://shop_images/ChatGPT_Image_17_mai_2025_20_03_47.png",
         "content_position_mobile": "items-center justify-center",
         "text_alignment_mobile": "center",
         "color_text": "#ffffff",
@@ -657,7 +657,7 @@
           "settings": {
             "icon": "none",
             "heading": "Description",
-            "content": "<p><strong>La Classe, Sans Fil.</strong></p><p>Les <strong>KR-03 Urban Classic</strong> mélangent <strong>style intemporel</strong> et <strong>technologie moderne</strong>. Reste connecté(e) à ton son, sans sacrifier ton look.</p><p><strong> Design Sombre & Raffiné.</strong></p><p>Verres <strong>fumés</strong> avec des reflets subtils, branches <strong>noires profondes</strong>, look <strong>minimaliste</strong> et <strong>élégant</strong>. Un style qui passe <strong>partout</strong>, mais qui laisse <strong>personne indifférent</strong>.</p><p><strong>Ton Son, Ta Liberté.</strong></p><p>Des <strong>haut-parleurs intégrés</strong> pour écouter ta musique ou répondre à tes appels <strong>sans écouteurs</strong>. Connexion <strong>Bluetooth rapide</strong>, son <strong>propre</strong> et <strong>immersif</strong>.</p><p><strong>Parfait pour la Street, le Bureau, ou le Chill.</strong></p><p>Confortables, <strong>légères</strong>, et prêtes pour t’accompagner <strong>toute la journée</strong>. Étanches, robustes, et toujours stylées.</p>",
+            "content": "<p><strong>La Classe, Sans Fil.</strong></p><p>Les <strong>KR-05 Urban Classic</strong> mélangent <strong>style intemporel</strong> et <strong>technologie moderne</strong>. Reste connecté(e) à ton son, sans sacrifier ton look.</p><p><strong> Design Sombre & Raffiné.</strong></p><p>Verres <strong>fumés</strong> avec des reflets subtils, branches <strong>noires profondes</strong>, look <strong>minimaliste</strong> et <strong>élégant</strong>. Un style qui passe <strong>partout</strong>, mais qui laisse <strong>personne indifférent</strong>.</p><p><strong>Ton Son, Ta Liberté.</strong></p><p>Des <strong>haut-parleurs intégrés</strong> pour écouter ta musique ou répondre à tes appels <strong>sans écouteurs</strong>. Connexion <strong>Bluetooth rapide</strong>, son <strong>propre</strong> et <strong>immersif</strong>.</p><p><strong>Parfait pour la Street, le Bureau, ou le Chill.</strong></p><p>Confortables, <strong>légères</strong>, et prêtes pour t’accompagner <strong>toute la journée</strong>. Étanches, robustes, et toujours stylées.</p>",
             "page": "",
             "liquid": "",
             "opened": false
