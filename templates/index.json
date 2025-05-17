@@ -113,6 +113,170 @@
         "rounded": false
       }
     },
+    "featured_collection_QwFt39": {
+      "type": "featured-collection",
+      "name": "t:sections.featured-collection.presets.name",
+      "settings": {
+        "collection": "frontpage",
+        "products": [],
+        "product_limit": 6,
+        "columns": 4,
+        "carousel_on_desktop": true,
+        "show_view_all": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "heading": "Choisis ta <em>VYBZ</em>",
+        "heading_size": "title-sm",
+        "heading_alignment": "text-center md:items-center",
+        "heading_tag": "h2",
+        "subheading": "",
+        "description": "",
+        "highlighted_text": "text",
+        "highlighted_scribble": "circle",
+        "color_text": "",
+        "color_background": "",
+        "gradient_background": "",
+        "color_highlight": "",
+        "gradient_highlight": "",
+        "color_button_text": "",
+        "color_button_background": "",
+        "color_button_gradient": "",
+        "padding_top": 36,
+        "padding_bottom": 0,
+        "divider": false,
+        "full_width": false,
+        "rounded": false
+      }
+    },
+    "reveal_image_with_text_overlay_ADkGKC": {
+      "type": "reveal-image-with-text-overlay",
+      "blocks": {
+        "subheading_yUYWzw": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "Deux regards. Une seule vibe.",
+            "subheading_size": "subtitle-sm",
+            "secondary_color": true
+          }
+        },
+        "heading_eD3w96": {
+          "type": "heading",
+          "settings": {
+            "heading": "Affirme ta connexion.",
+            "heading_size": "title-sm",
+            "heading_tag": "h2",
+            "highlighted_text": "text",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "text_4pit6c": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Dépasse les limites du classique. VYBZ t’offre des lunettes audio qui allient technologie HD et design urbain. Que tu marches, rides ou vibres en soirée, choisis ton flow. VYBZ™, c’est plus qu’un look – c’est ton univers sonore.</p>",
+            "text_size": "subtext-sm",
+            "text_max_size": 32,
+            "text_font": "body",
+            "secondary_color": false,
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_yUYWzw",
+        "heading_eD3w96",
+        "text_4pit6c"
+      ],
+      "name": "t:sections.reveal-image-with-text-overlay.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/8B6ED4DB-4900-4EC4-9797-E0627980D196.png",
+        "content_width": "small",
+        "content_position": "md:items-end md:justify-center",
+        "text_alignment": "center",
+        "image_mobile": "shopify://shop_images/ChatGPT_Image_17_mai_2025_17_04_30.png",
+        "content_position_mobile": "items-end justify-center",
+        "text_alignment_mobile": "center",
+        "color_text": "#ffffff",
+        "color_highlight": "",
+        "gradient_highlight": "",
+        "color_button_text": "",
+        "color_button_background": "",
+        "color_button_gradient": "",
+        "color_overlay": "#171717",
+        "overlay_opacity": 50,
+        "enable_parallax": true
+      }
+    },
+    "images_with_text_overlay_cLaiaX": {
+      "type": "images-with-text-overlay",
+      "blocks": {
+        "subheading_dR8mi3": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "LIBERTÉ. SON. STYLE",
+            "subheading_size": "subtitle-md",
+            "secondary_color": true
+          }
+        },
+        "heading_zfxnyR": {
+          "type": "heading",
+          "settings": {
+            "heading": "POURQUOI VYBZ ?",
+            "heading_size": "title-sm",
+            "heading_tag": "h2",
+            "highlighted_text": "text",
+            "highlighted_scribble": "squiggle-underline"
+          }
+        },
+        "text_jzDTKU": {
+          "type": "text",
+          "settings": {
+            "text": "<ul><li><strong>Liberté Totale</strong> : <em>Sans câbles, sans écouteurs – un son pur, partout.</em></li><li><strong>Son Immersif</strong> : <em>Audio HD intégré, pour vibrer à chaque beat.</em></li><li><strong>Style Assumé</strong> : <em>Des modèles faits pour être vus… et entendus</em></li></ul>",
+            "text_size": "subtext-md",
+            "text_max_size": 32,
+            "text_font": "body",
+            "secondary_color": false,
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_dR8mi3",
+        "heading_zfxnyR",
+        "text_jzDTKU"
+      ],
+      "name": "t:sections.images-with-text-overlay.presets.name",
+      "settings": {
+        "transparent_header": false,
+        "image_height": "650px",
+        "content_width": "small",
+        "content_position": "md:items-end md:justify-start",
+        "text_alignment": "left",
+        "image_1": "shopify://shop_images/BE04048B-CAAE-4798-BBA4-F599B7F512BB_2.png",
+        "image_2": "shopify://shop_images/B0EE3433-9C7C-4391-92F4-85480C57CF8C.png",
+        "image_3": "shopify://shop_images/EF884DC7-8B14-47DD-83D5-89BBA5C087B3.png",
+        "image_4": "shopify://shop_images/Lunettesdesportnoiresminimalistes.png",
+        "image_5": "shopify://shop_images/ChatGPT_Image_1_mai_2025_20_02_40.png",
+        "image_height_mobile": "600px",
+        "content_position_mobile": "items-end justify-start",
+        "text_alignment_mobile": "left",
+        "color_text": "#ffffff",
+        "color_highlight": "#8f00ff",
+        "gradient_highlight": "",
+        "color_button_text": "#171717",
+        "color_button_background": "#ffffff",
+        "color_button_gradient": "",
+        "color_overlay": "#171717",
+        "overlay_opacity": 0,
+        "padding_top": 44,
+        "padding_bottom": 0,
+        "divider": false,
+        "full_width": true,
+        "rounded": false,
+        "enable_parallax": true
+      }
+    },
     "videoproduct_XAkpTU": {
       "type": "Videoproduct",
       "blocks": {
@@ -355,317 +519,6 @@
         "content_width": 140,
         "border_thickness": 0,
         "lazy": true
-      }
-    },
-    "videslider_6UignC": {
-      "type": "videslider",
-      "blocks": {
-        "slide_mwmjFn": {
-          "type": "slide",
-          "settings": {
-            "video": "shopify://files/videos/copy_551F9E89-5DF9-49A2-802D-CAB057544A0B.mov",
-            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-            "title": "KR-01 Blaze Red",
-            "stars_count": 0
-          }
-        },
-        "slide_Yky9ie": {
-          "type": "slide",
-          "settings": {
-            "video": "shopify://files/videos/copy_9A7A5E34-4153-4F17-9857-2CE1C76D8955.mov",
-            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-            "title": "KR-02 BlueStrike",
-            "stars_count": 0
-          }
-        },
-        "slide_4mBeBf": {
-          "type": "slide",
-          "settings": {
-            "video": "shopify://files/videos/copy_D32C778F-7419-4256-BEC3-9BE11DF615DA.mov",
-            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-            "title": "KR-03 Urban Classic",
-            "stars_count": 0
-          }
-        },
-        "slide_bzyabr": {
-          "type": "slide",
-          "settings": {
-            "video": "shopify://files/videos/copy_B4B27977-F221-410E-AEC0-AC757D4F9DC9.mov",
-            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-            "title": "New Slide",
-            "stars_count": 5
-          }
-        },
-        "slide_9CinCH": {
-          "type": "slide",
-          "settings": {
-            "video": "shopify://files/videos/copy_1C0FEED1-7038-44F2-A7AC-0097210396E5.mov",
-            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-            "title": "New Slide",
-            "stars_count": 5
-          }
-        }
-      },
-      "block_order": [
-        "slide_mwmjFn",
-        "slide_Yky9ie",
-        "slide_4mBeBf",
-        "slide_bzyabr",
-        "slide_9CinCH"
-      ],
-      "disabled": true,
-      "name": "SS - Video Slider",
-      "settings": {
-        "slider_view": 5,
-        "slider_view_mobile": 1.5,
-        "slider_gap": 10,
-        "slider_gap_mobile": 10,
-        "slider_rotate": 0,
-        "card_padding_vertical": 20,
-        "card_padding_vertical_mobile": 20,
-        "card_padding_horizontal": 20,
-        "card_padding_horizontal_mobile": 20,
-        "card_radius": 16,
-        "card_border_thickness": 0,
-        "card_shadow": false,
-        "card_ratio": "portrait",
-        "card_ratio_mobile": "portrait",
-        "card_overlay": 0.2,
-        "content_horizontal_position": "center",
-        "content_horizontal_position_mobile": "center",
-        "content_vertical_position": "end",
-        "content_vertical_position_mobile": "end",
-        "title_custom": false,
-        "title_font": "josefin_sans_n4",
-        "title_size": 16,
-        "title_size_mobile": 16,
-        "title_height": 100,
-        "stars_size": 16,
-        "stars_size_mobile": 16,
-        "stars_mt": 16,
-        "stars_mt_mobile": 16,
-        "hide_stars": false,
-        "use_action": false,
-        "action_size": 40,
-        "action_size_mobile": 40,
-        "action_icon_size": 24,
-        "action_icon_size_mobile": 24,
-        "action_border_thickness": 0,
-        "use_sound": false,
-        "sound_size": 40,
-        "sound_size_mobile": 40,
-        "sound_icon_size": 24,
-        "sound_icon_size_mobile": 24,
-        "sound_border_thickness": 0,
-        "arrow_size": 48,
-        "arrow_size_mobile": 48,
-        "arrow_icon_size": 8,
-        "arrow_icon_size_mobile": 8,
-        "arrow_border_thickness": 0,
-        "arrow_radius": 100,
-        "arrow_hover_effect": "color",
-        "arrow_show_desktop": false,
-        "arrow_show_mobile": false,
-        "card_border_color": "#000000",
-        "card_shadow_color": "#000000",
-        "card_overlay_color": "#000000",
-        "title_color": "#ffffff",
-        "stars_color": "#ffffff",
-        "action_color": "#ffffff",
-        "action_hover_color": "#ffffff",
-        "action_bg_color": "#ffffff",
-        "action_bg_hover_color": "#ffffff",
-        "action_border_color": "#ffffff",
-        "action_border_hover_color": "#ffffff",
-        "sound_icon_color": "#ffffff",
-        "sound_icon_hover_color": "#ffffff",
-        "sound_bg_color": "#ffffff",
-        "sound_bg_hover_color": "#ffffff",
-        "sound_border_color": "#ffffff",
-        "sound_border_hover_color": "#ffffff",
-        "arrow_color": "#ffffff",
-        "arrow_hover_color": "#434343",
-        "arrow_bg_color": "#434343",
-        "arrow_bg_hover_color": "#ffffff",
-        "arrow_border_color": "#000000",
-        "arrow_border_hover_color": "#000000",
-        "background_color": "#171717",
-        "background_gradient": "",
-        "border_color": "#000000",
-        "margin_top": 0,
-        "margin_bottom": 0,
-        "padding_top": 36,
-        "padding_bottom": 0,
-        "padding_horizontal": 0,
-        "padding_horizontal_mobile": 0,
-        "full_width": false,
-        "content_width": 120,
-        "border_thickness": 0,
-        "lazy": true
-      }
-    },
-    "reveal_image_with_text_overlay_ADkGKC": {
-      "type": "reveal-image-with-text-overlay",
-      "blocks": {
-        "subheading_yUYWzw": {
-          "type": "subheading",
-          "settings": {
-            "subheading": "Deux regards. Une seule vibe.",
-            "subheading_size": "subtitle-sm",
-            "secondary_color": true
-          }
-        },
-        "heading_eD3w96": {
-          "type": "heading",
-          "settings": {
-            "heading": "Affirme ta connexion.",
-            "heading_size": "title-sm",
-            "heading_tag": "h2",
-            "highlighted_text": "text",
-            "highlighted_scribble": "circle"
-          }
-        },
-        "text_4pit6c": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Dépasse les limites du classique. VYBZ t’offre des lunettes audio qui allient technologie HD et design urbain. Que tu marches, rides ou vibres en soirée, choisis ton flow. VYBZ™, c’est plus qu’un look – c’est ton univers sonore.</p>",
-            "text_size": "subtext-sm",
-            "text_max_size": 32,
-            "text_font": "body",
-            "secondary_color": false,
-            "highlighted_text": "none",
-            "highlighted_scribble": "circle"
-          }
-        }
-      },
-      "block_order": [
-        "subheading_yUYWzw",
-        "heading_eD3w96",
-        "text_4pit6c"
-      ],
-      "name": "t:sections.reveal-image-with-text-overlay.presets.name",
-      "settings": {
-        "image": "shopify://shop_images/8B6ED4DB-4900-4EC4-9797-E0627980D196.png",
-        "content_width": "small",
-        "content_position": "md:items-end md:justify-center",
-        "text_alignment": "center",
-        "image_mobile": "shopify://shop_images/ChatGPT_Image_17_mai_2025_17_04_30.png",
-        "content_position_mobile": "items-end justify-center",
-        "text_alignment_mobile": "center",
-        "color_text": "#ffffff",
-        "color_highlight": "",
-        "gradient_highlight": "",
-        "color_button_text": "",
-        "color_button_background": "",
-        "color_button_gradient": "",
-        "color_overlay": "#171717",
-        "overlay_opacity": 50,
-        "enable_parallax": true
-      }
-    },
-    "featured_collection_QwFt39": {
-      "type": "featured-collection",
-      "name": "t:sections.featured-collection.presets.name",
-      "settings": {
-        "collection": "frontpage",
-        "products": [],
-        "product_limit": 6,
-        "columns": 4,
-        "carousel_on_desktop": true,
-        "show_view_all": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
-        "heading": "",
-        "heading_size": "title-md",
-        "heading_alignment": "text-left md:items-end md:flex-row",
-        "heading_tag": "h2",
-        "subheading": "",
-        "description": "",
-        "highlighted_text": "none",
-        "highlighted_scribble": "circle",
-        "color_text": "",
-        "color_background": "",
-        "gradient_background": "",
-        "color_highlight": "",
-        "gradient_highlight": "",
-        "color_button_text": "",
-        "color_button_background": "",
-        "color_button_gradient": "",
-        "padding_top": 36,
-        "padding_bottom": 0,
-        "divider": false,
-        "full_width": false,
-        "rounded": false
-      }
-    },
-    "images_with_text_overlay_cLaiaX": {
-      "type": "images-with-text-overlay",
-      "blocks": {
-        "subheading_dR8mi3": {
-          "type": "subheading",
-          "settings": {
-            "subheading": "LIBERTÉ. SON. STYLE",
-            "subheading_size": "subtitle-md",
-            "secondary_color": true
-          }
-        },
-        "heading_zfxnyR": {
-          "type": "heading",
-          "settings": {
-            "heading": "POURQUOI VYBZ ?",
-            "heading_size": "title-sm",
-            "heading_tag": "h2",
-            "highlighted_text": "text",
-            "highlighted_scribble": "squiggle-underline"
-          }
-        },
-        "text_jzDTKU": {
-          "type": "text",
-          "settings": {
-            "text": "<ul><li><strong>Liberté Totale</strong> : <em>Sans câbles, sans écouteurs – un son pur, partout.</em></li><li><strong>Son Immersif</strong> : <em>Audio HD intégré, pour vibrer à chaque beat.</em></li><li><strong>Style Assumé</strong> : <em>Des modèles faits pour être vus… et entendus</em></li></ul>",
-            "text_size": "subtext-md",
-            "text_max_size": 32,
-            "text_font": "body",
-            "secondary_color": false,
-            "highlighted_text": "none",
-            "highlighted_scribble": "circle"
-          }
-        }
-      },
-      "block_order": [
-        "subheading_dR8mi3",
-        "heading_zfxnyR",
-        "text_jzDTKU"
-      ],
-      "name": "t:sections.images-with-text-overlay.presets.name",
-      "settings": {
-        "transparent_header": false,
-        "image_height": "650px",
-        "content_width": "small",
-        "content_position": "md:items-end md:justify-start",
-        "text_alignment": "left",
-        "image_1": "shopify://shop_images/BE04048B-CAAE-4798-BBA4-F599B7F512BB_2.png",
-        "image_2": "shopify://shop_images/B0EE3433-9C7C-4391-92F4-85480C57CF8C.png",
-        "image_3": "shopify://shop_images/EF884DC7-8B14-47DD-83D5-89BBA5C087B3.png",
-        "image_4": "shopify://shop_images/Lunettesdesportnoiresminimalistes.png",
-        "image_5": "shopify://shop_images/ChatGPT_Image_1_mai_2025_20_02_40.png",
-        "image_height_mobile": "600px",
-        "content_position_mobile": "items-end justify-start",
-        "text_alignment_mobile": "left",
-        "color_text": "#ffffff",
-        "color_highlight": "#8f00ff",
-        "gradient_highlight": "",
-        "color_button_text": "#171717",
-        "color_button_background": "#ffffff",
-        "color_button_gradient": "",
-        "color_overlay": "#171717",
-        "overlay_opacity": 0,
-        "padding_top": 44,
-        "padding_bottom": 0,
-        "divider": false,
-        "full_width": true,
-        "rounded": false,
-        "enable_parallax": true
       }
     },
     "scrolling-text-1": {
@@ -1090,11 +943,10 @@
   "order": [
     "image_with_text_overlay_iDihFt",
     "scrolling_text_WtJytJ",
-    "videoproduct_XAkpTU",
-    "videslider_6UignC",
-    "reveal_image_with_text_overlay_ADkGKC",
     "featured_collection_QwFt39",
+    "reveal_image_with_text_overlay_ADkGKC",
     "images_with_text_overlay_cLaiaX",
+    "videoproduct_XAkpTU",
     "scrolling-text-1",
     "shop-the-feed",
     "faq_nUPGUw",
