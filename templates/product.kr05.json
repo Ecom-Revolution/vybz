@@ -381,7 +381,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/30_avr._2025_17_09_03.png",
+        "image": "shopify://shop_images/Design_sans_titre.pdf.pdf_3_8530bb5b-1b83-4a6e-98e4-490c1adad9f9.png",
         "image_height": "650px",
         "image_width": "medium",
         "layout": "text_first",
@@ -657,7 +657,7 @@
           "settings": {
             "icon": "none",
             "heading": "Description",
-            "content": "<p><strong>Liberté Totale. Sans Fils. Sans Limites.</strong></p><p>Fini les écouteurs qui t’encombrent. Les <strong>KR-01 Blaze Red</strong> te balancent un <strong>son HD</strong> direct depuis les branches, où que tu sois.</p><p><strong>Verres Dégradés Iconiques. Style Imparable.</strong></p><p>Affirme ton flow avec des <strong>verres arc-en-ciel</strong> qui captent tous les regards. Pas de monture inférieure – juste du pur <strong>design aérodynamique</strong>.</p><p><strong>Son Haute Qualité, Intégré.</strong></p><p>Musique, appels, commandes vocales. Tout passe par des <strong>speakers discrets</strong>, intégrés dans les branches. <strong>Connectivité Bluetooth</strong> instantanée.</p><p><strong>Résistantes & Confortables.</strong></p><p>Pensées pour la <strong>street</strong>. Robustes, légères, et résistantes à l’eau. Porte-les <strong>toute la journée</strong> sans pression.</p>",
+            "content": "<p><strong>L’Audace au Féminin.</strong><br/>Le modèle Nova Pink casse les codes et impose un style qui brille sans effort. Une touche galactique, une énergie unique. Porte ce que les autres n’osent pas.</p><p><strong>Look Galaxie & Délicat.</strong><br/>Monture rose translucide, verres miroir dégradés rose doré. Un design qui attire les regards sans en faire trop. Léger, lumineux, absolument captivant.</p><p><strong>Ton Univers, Ton Son.</strong><br/>Avec ses haut-parleurs discrets, garde ta musique ou tes appels à portée d’oreille sans jamais t’encombrer. Connexion Bluetooth instantanée, son immersif et clair.</p><p><strong>Pour Tes Moments Brillants.</strong><br/>Que ce soit en soirée, à la plage ou en ville, le Nova Pink t’accompagne avec style. Confortable, audacieux, et toujours prêt à capter les regards.</p>",
             "page": "",
             "liquid": "",
             "opened": false
