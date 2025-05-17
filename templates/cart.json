@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
@@ -11,8 +20,7 @@
         },
         "subtotal": {
           "type": "subtotal",
-          "settings": {
-          }
+          "settings": {}
         },
         "cart_note": {
           "type": "cart_note",
@@ -23,6 +31,7 @@
         "buttons": {
           "type": "buttons",
           "settings": {
+            "show_accelerated_buttons": true
           }
         }
       },
@@ -37,7 +46,8 @@
         "heading_alignment": "md:items-end",
         "heading_tag": "h1",
         "show_vendor": false,
-        "show_shipping_calculator": true,
+        "show_payment_icons": true,
+        "show_shipping_calculator": false,
         "padding_top": 72,
         "padding_bottom": 60,
         "divider": false,
