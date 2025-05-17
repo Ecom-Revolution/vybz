@@ -110,6 +110,139 @@
         "rounded": false
       }
     },
+    "main-product": {
+      "type": "main-product",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {
+            "title_size": "product-title-md",
+            "title_size_mobile": "product-title-md",
+            "show_price": true,
+            "show_rating": true
+          }
+        },
+        "liquid_wycYrT": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"product-features-elite\">\n  <ul class=\"feature-list-elite\">\n    <li class=\"feature-elite\">\n      {% render 'icon-check-premium' %}\n      <span>Audio HD intégré – sans écouteurs, sans limites</span>\n    </li>\n    <li class=\"feature-elite\">\n      {% render 'icon-check-premium' %}\n      <span>Bluetooth 5.0 – Connexion rapide et fluide</span>\n    </li>\n    <li class=\"feature-elite\">\n      {% render 'icon-check-premium' %}\n      <span>Ultra légère & résistante – Confort toute la journée</span>\n    </li>\n    <li class=\"feature-elite\">\n      {% render 'icon-check-premium' %}\n      <span>Verres miroir BlueStrike – Look unique, UV400</span>\n    </li>\n  </ul>\n</div>\n\n<style>\n  .product-features-elite {\n    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;\n  }\n\n  .feature-list-elite {\n    list-style: none;\n    padding: 0;\n    margin: 0;\n  }\n\n  .feature-elite {\n    display: flex;\n    align-items: center; /* Centrer l'icône et le texte */\n    margin-bottom: 8px; /* Augmenter l'espacement entre les éléments */\n    font-size: 14px;\n    color: #fff;\n    line-height: 1.35;\n    letter-spacing: 0.01em;\n  }\n\n  .feature-elite span {\n    margin-left: 10px; /* Espacement entre l'icône et le texte */\n  }\n\n  .feature-elite:last-child {\n    margin-bottom: 0;\n  }\n</style>"
+          }
+        },
+        "liquid_kd7wjX": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"stock-warning-container\">\n  <div class=\"animated-dot\"></div>\n  <span class=\"stock-warning-text\">Stock faible</span>\n</div>\n\n<style>\n  .stock-warning-container {\n    display: flex !important; /* Force le mode flex */\n    align-items: center;\n    gap: 8px;\n    color: #d82c2c;\n  }\n\n  .animated-dot {\n    display: block !important; /* S'assure que l'élément est visible */\n    width: 10px;\n    height: 10px;\n    background-color: #d82c2c;\n    border-radius: 50%;\n    animation: pulse 1.5s infinite;\n    flex-shrink: 0; /* Empêche le rétrécissement */\n  }\n\n  @keyframes pulse {\n    0% { transform: scale(1); opacity: 1; }\n    50% { transform: scale(1.3); opacity: 0.7; }\n    100% { transform: scale(1); opacity: 1; }\n  }\n\n  .stock-warning-text {\n    font-size: 14px;\n    font-weight: 500;\n  }\n</style>"
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "show_variant_labels": true,
+            "picker_type": "button",
+            "enable_color_swatches": true,
+            "color_swatch_type": "color",
+            "size_chart": ""
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_quantity_selector": false,
+            "show_price": false,
+            "show_dynamic_checkout": false,
+            "show_gift_card_recipient": true,
+            "enable_back_in_stock": false,
+            "show_back_in_stock_name": false,
+            "show_back_in_stock_phone": false
+          }
+        },
+        "collapsible_tab_H4jwnk": {
+          "type": "collapsible_tab",
+          "settings": {
+            "icon": "none",
+            "heading": "Description",
+            "content": "<p><strong>Son Haute Définition. Sans Fil.</strong></p><p>Oublie les écouteurs. Les <strong>KR-02 BlueStrike</strong> te font vibrer avec un <strong>son clair et puissant</strong>, direct depuis tes branches. <strong>Liberté Totale</strong>, partout.</p><p><strong>Verres Bleus Profonds. Vibe Futuriste.</strong></p><p>Un look <strong>froid et percutant</strong>, avec des verres <strong>bleu électrique</strong>. Design <strong>taillé pour l’impact</strong> : sans monture inférieure, juste des lignes nettes et une présence imposante.</p><p><strong> Audio Intégré. Discret. Puissant.</strong></p><p>Écoute ta musique, prends tes appels, sans rien dans les oreilles. Les <strong>haut-parleurs sont cachés</strong> dans les branches. <strong>Bluetooth</strong> rapide, <strong>autonomie 6h</strong>.</p><p><strong>Résistantes à Tout.</strong></p><p>Conçues pour <strong>tenir la distance</strong>. Branches solides, verres protégés, et <strong>résistance à l’eau</strong>. Tu peux compter sur elles, partout, tout le temps.</p>",
+            "page": "",
+            "liquid": "",
+            "opened": false
+          }
+        },
+        "collapsible_tab_nzqTeN": {
+          "type": "collapsible_tab",
+          "settings": {
+            "icon": "none",
+            "heading": "Détails Techniques",
+            "content": "<ul><li>Verres <strong>BlueStrike</strong> miroir UV400</li><li><strong>Audio Bluetooth 5.0</strong>, autonomie <strong>6h</strong></li><li><strong>Micro intégré</strong> pour appels </li><li>Branches avec <strong>haut-parleurs stéréo </strong></li><li>Compatible iOS & Android<br/></li></ul><p><br/><br/></p>",
+            "page": "",
+            "liquid": "",
+            "opened": false
+          }
+        },
+        "pickup_availability": {
+          "type": "pickup_availability",
+          "settings": {}
+        },
+        "collapsible_tab_3ndtzW": {
+          "type": "collapsible_tab",
+          "settings": {
+            "icon": "none",
+            "heading": "Combien de temps pour recevoir ma paire de VYBZ ?",
+            "content": "<p>Pas d’attente inutile : ta commande part direct de chez nous, en express.<br/>Livraison en 48-72h ouvrées, avec suivi.<br/>On a du stock prêt à t’envoyer du flow.</p>",
+            "page": "",
+            "liquid": "",
+            "opened": false
+          }
+        },
+        "collapsible_tab_Hm9yTU": {
+          "type": "collapsible_tab",
+          "settings": {
+            "icon": "none",
+            "heading": "Et si ça me va pas ?",
+            "content": "<p>T’as le droit de changer d’avis.<br/>Tu as 30 jours pour tester. Si c’est pas un match, on te rembourse.<br/>Pas de stress, c’est VYBZ ou rien.</p><p><br/><br/></p>",
+            "page": "",
+            "liquid": "",
+            "opened": false
+          }
+        },
+        "sticky_buy_button": {
+          "type": "sticky_buy_button",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "title",
+        "liquid_wycYrT",
+        "liquid_kd7wjX",
+        "variant_picker",
+        "buy_buttons",
+        "collapsible_tab_H4jwnk",
+        "collapsible_tab_nzqTeN",
+        "pickup_availability",
+        "collapsible_tab_3ndtzW",
+        "collapsible_tab_Hm9yTU",
+        "sticky_buy_button"
+      ],
+      "custom_css": [],
+      "settings": {
+        "enable_sticky_info": true,
+        "media_size": 66,
+        "gallery_layout": "thumbnail",
+        "thumbnail_position": "beside",
+        "image_ratio": "adapt_first",
+        "image_zoom": "none",
+        "hide_variants": false,
+        "enable_video_autoplay": true,
+        "enable_video_looping": true,
+        "mobile_layout": "full_width",
+        "image_ratio_mobile": "adapt_first",
+        "mobile_thumbnail": true,
+        "padding_top": 0,
+        "padding_bottom": 16,
+        "divider": false,
+        "full_width": true,
+        "rounded": false
+      }
+    },
     "reveal_image_with_text_overlay_Xn9BtP": {
       "type": "reveal-image-with-text-overlay",
       "blocks": {
@@ -606,139 +739,6 @@
         "rounded": true
       }
     },
-    "main-product": {
-      "type": "main-product",
-      "blocks": {
-        "title": {
-          "type": "title",
-          "settings": {
-            "title_size": "product-title-md",
-            "title_size_mobile": "product-title-md",
-            "show_price": true,
-            "show_rating": true
-          }
-        },
-        "liquid_wycYrT": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<div class=\"product-features-elite\">\n  <ul class=\"feature-list-elite\">\n    <li class=\"feature-elite\">\n      {% render 'icon-check-premium' %}\n      <span>Audio HD intégré – sans écouteurs, sans limites</span>\n    </li>\n    <li class=\"feature-elite\">\n      {% render 'icon-check-premium' %}\n      <span>Bluetooth 5.0 – Connexion rapide et fluide</span>\n    </li>\n    <li class=\"feature-elite\">\n      {% render 'icon-check-premium' %}\n      <span>Ultra légère & résistante – Confort toute la journée</span>\n    </li>\n    <li class=\"feature-elite\">\n      {% render 'icon-check-premium' %}\n      <span>Verres miroir BlueStrike – Look unique, UV400</span>\n    </li>\n  </ul>\n</div>\n\n<style>\n  .product-features-elite {\n    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;\n  }\n\n  .feature-list-elite {\n    list-style: none;\n    padding: 0;\n    margin: 0;\n  }\n\n  .feature-elite {\n    display: flex;\n    align-items: center; /* Centrer l'icône et le texte */\n    margin-bottom: 8px; /* Augmenter l'espacement entre les éléments */\n    font-size: 14px;\n    color: #fff;\n    line-height: 1.35;\n    letter-spacing: 0.01em;\n  }\n\n  .feature-elite span {\n    margin-left: 10px; /* Espacement entre l'icône et le texte */\n  }\n\n  .feature-elite:last-child {\n    margin-bottom: 0;\n  }\n</style>"
-          }
-        },
-        "liquid_kd7wjX": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<div class=\"stock-warning-container\">\n  <div class=\"animated-dot\"></div>\n  <span class=\"stock-warning-text\">Stock faible</span>\n</div>\n\n<style>\n  .stock-warning-container {\n    display: flex !important; /* Force le mode flex */\n    align-items: center;\n    gap: 8px;\n    color: #d82c2c;\n  }\n\n  .animated-dot {\n    display: block !important; /* S'assure que l'élément est visible */\n    width: 10px;\n    height: 10px;\n    background-color: #d82c2c;\n    border-radius: 50%;\n    animation: pulse 1.5s infinite;\n    flex-shrink: 0; /* Empêche le rétrécissement */\n  }\n\n  @keyframes pulse {\n    0% { transform: scale(1); opacity: 1; }\n    50% { transform: scale(1.3); opacity: 0.7; }\n    100% { transform: scale(1); opacity: 1; }\n  }\n\n  .stock-warning-text {\n    font-size: 14px;\n    font-weight: 500;\n  }\n</style>"
-          }
-        },
-        "variant_picker": {
-          "type": "variant_picker",
-          "settings": {
-            "show_variant_labels": true,
-            "picker_type": "button",
-            "enable_color_swatches": true,
-            "color_swatch_type": "color",
-            "size_chart": ""
-          }
-        },
-        "buy_buttons": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_quantity_selector": false,
-            "show_price": false,
-            "show_dynamic_checkout": false,
-            "show_gift_card_recipient": true,
-            "enable_back_in_stock": false,
-            "show_back_in_stock_name": false,
-            "show_back_in_stock_phone": false
-          }
-        },
-        "collapsible_tab_H4jwnk": {
-          "type": "collapsible_tab",
-          "settings": {
-            "icon": "none",
-            "heading": "Description",
-            "content": "<p><strong>Son Haute Définition. Sans Fil.</strong></p><p>Oublie les écouteurs. Les <strong>KR-02 BlueStrike</strong> te font vibrer avec un <strong>son clair et puissant</strong>, direct depuis tes branches. <strong>Liberté Totale</strong>, partout.</p><p><strong>Verres Bleus Profonds. Vibe Futuriste.</strong></p><p>Un look <strong>froid et percutant</strong>, avec des verres <strong>bleu électrique</strong>. Design <strong>taillé pour l’impact</strong> : sans monture inférieure, juste des lignes nettes et une présence imposante.</p><p><strong> Audio Intégré. Discret. Puissant.</strong></p><p>Écoute ta musique, prends tes appels, sans rien dans les oreilles. Les <strong>haut-parleurs sont cachés</strong> dans les branches. <strong>Bluetooth</strong> rapide, <strong>autonomie 6h</strong>.</p><p><strong>Résistantes à Tout.</strong></p><p>Conçues pour <strong>tenir la distance</strong>. Branches solides, verres protégés, et <strong>résistance à l’eau</strong>. Tu peux compter sur elles, partout, tout le temps.</p>",
-            "page": "",
-            "liquid": "",
-            "opened": false
-          }
-        },
-        "collapsible_tab_nzqTeN": {
-          "type": "collapsible_tab",
-          "settings": {
-            "icon": "none",
-            "heading": "Détails Techniques",
-            "content": "<ul><li>Verres <strong>BlueStrike</strong> miroir UV400</li><li><strong>Audio Bluetooth 5.0</strong>, autonomie <strong>6h</strong></li><li><strong>Micro intégré</strong> pour appels </li><li>Branches avec <strong>haut-parleurs stéréo </strong></li><li>Compatible iOS & Android<br/></li></ul><p><br/><br/></p>",
-            "page": "",
-            "liquid": "",
-            "opened": false
-          }
-        },
-        "pickup_availability": {
-          "type": "pickup_availability",
-          "settings": {}
-        },
-        "collapsible_tab_3ndtzW": {
-          "type": "collapsible_tab",
-          "settings": {
-            "icon": "none",
-            "heading": "Combien de temps pour recevoir ma paire de VYBZ ?",
-            "content": "<p>Pas d’attente inutile : ta commande part direct de chez nous, en express.<br/>Livraison en 48-72h ouvrées, avec suivi.<br/>On a du stock prêt à t’envoyer du flow.</p>",
-            "page": "",
-            "liquid": "",
-            "opened": false
-          }
-        },
-        "collapsible_tab_Hm9yTU": {
-          "type": "collapsible_tab",
-          "settings": {
-            "icon": "none",
-            "heading": "Et si ça me va pas ?",
-            "content": "<p>T’as le droit de changer d’avis.<br/>Tu as 30 jours pour tester. Si c’est pas un match, on te rembourse.<br/>Pas de stress, c’est VYBZ ou rien.</p><p><br/><br/></p>",
-            "page": "",
-            "liquid": "",
-            "opened": false
-          }
-        },
-        "sticky_buy_button": {
-          "type": "sticky_buy_button",
-          "settings": {}
-        }
-      },
-      "block_order": [
-        "title",
-        "liquid_wycYrT",
-        "liquid_kd7wjX",
-        "variant_picker",
-        "buy_buttons",
-        "collapsible_tab_H4jwnk",
-        "collapsible_tab_nzqTeN",
-        "pickup_availability",
-        "collapsible_tab_3ndtzW",
-        "collapsible_tab_Hm9yTU",
-        "sticky_buy_button"
-      ],
-      "custom_css": [],
-      "settings": {
-        "enable_sticky_info": true,
-        "media_size": 66,
-        "gallery_layout": "thumbnail",
-        "thumbnail_position": "beside",
-        "image_ratio": "adapt_first",
-        "image_zoom": "none",
-        "hide_variants": false,
-        "enable_video_autoplay": true,
-        "enable_video_looping": true,
-        "mobile_layout": "full_width",
-        "image_ratio_mobile": "adapt_first",
-        "mobile_thumbnail": true,
-        "padding_top": 0,
-        "padding_bottom": 16,
-        "divider": false,
-        "full_width": true,
-        "rounded": false
-      }
-    },
     "help-drawer": {
       "type": "help-drawer",
       "blocks": {
@@ -1222,16 +1222,16 @@
   "order": [
     "image_with_text_overlay_aAqAN3",
     "scrolling_text_ThzrFh",
+    "main-product",
     "reveal_image_with_text_overlay_Xn9BtP",
     "rich_text_7jVdpV",
     "feature6_bpdPET",
     "image_with_text_iMt8Xz",
     "scrolling_text_JziejU",
     "featured_product_6V4Vbn",
-    "main-product",
     "help-drawer",
-    "image-with-text-1",
     "featured_collection_E49rdB",
+    "image-with-text-1",
     "rich_text_JfAe6Y",
     "slideshow_R6U8j3",
     "faq",
