@@ -64,13 +64,59 @@
         "parallax_direction": "vertical"
       }
     },
+    "scrolling_text_FyMiqR": {
+      "type": "scrolling-text",
+      "blocks": {
+        "text_ENwVVb": {
+          "type": "text",
+          "settings": {
+            "text": "<em><strong>STOCK LIMITÉ</strong></em>",
+            "text_size": 78,
+            "text_font": "body",
+            "highlighted_text": "stencil",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "text_yDrm8a": {
+          "type": "text",
+          "settings": {
+            "text": "<em>ÉDITION LIMITÉE</em>",
+            "text_size": 80,
+            "text_font": "body",
+            "highlighted_text": "stencil",
+            "highlighted_scribble": "circle"
+          }
+        }
+      },
+      "block_order": [
+        "text_ENwVVb",
+        "text_yDrm8a"
+      ],
+      "disabled": true,
+      "settings": {
+        "direction": "left",
+        "speed": 20,
+        "grid_horizontal": 70,
+        "enable_twin": false,
+        "enable_parallax": true,
+        "color_text": "#8f00ff",
+        "color_background": "",
+        "gradient_background": "",
+        "color_highlight": "",
+        "gradient_highlight": "",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "divider": false,
+        "rounded": false
+      }
+    },
     "scrolling_text_WtJytJ": {
       "type": "scrolling-text",
       "blocks": {
         "text_AY7phR": {
           "type": "text",
           "settings": {
-            "text": "🔥 OFFRE EXCLUSIVE POUR LES 20 PREMIÈRES COMMANDE 🔥",
+            "text": "<em><strong>🔥 OFFRE EXCLUSIVE POUR LES 20 PREMIÈRES COMMANDE 🔥</strong></em>",
             "text_size": 36,
             "text_font": "body",
             "highlighted_text": "text",
@@ -80,10 +126,10 @@
         "text_dtMry6": {
           "type": "text",
           "settings": {
-            "text": "⚡ STOCK LIMITÉ, ÉDITION EXCLUSIVE VYBZ. ⚡",
+            "text": "<em><strong>⚡ STOCK LIMITÉ, ÉDITION EXCLUSIVE VYBZ. ⚡</strong></em>",
             "text_size": 36,
             "text_font": "body",
-            "highlighted_text": "none",
+            "highlighted_text": "text",
             "highlighted_scribble": "circle"
           }
         }
@@ -92,9 +138,7 @@
         "text_AY7phR",
         "text_dtMry6"
       ],
-      "custom_css": [
-        ".scrolling-text__item {color: #8f00ff !important; text-shadow: 0 0 10px #ff0033 !important; font-weight: 700 !important;}"
-      ],
+      "custom_css": [],
       "name": "t:sections.scrolling-text.presets.name",
       "settings": {
         "direction": "left",
@@ -942,6 +986,7 @@
   },
   "order": [
     "image_with_text_overlay_iDihFt",
+    "scrolling_text_FyMiqR",
     "scrolling_text_WtJytJ",
     "featured_collection_QwFt39",
     "reveal_image_with_text_overlay_ADkGKC",
