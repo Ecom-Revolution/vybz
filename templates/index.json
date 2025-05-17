@@ -780,6 +780,69 @@
             "hotspot_product_4": ""
           }
         },
+        "feed_WwY6TY": {
+          "type": "feed",
+          "settings": {
+            "video_on_hover": true,
+            "account_name": "@Concept",
+            "account_description": "We cultivate sonic excellence",
+            "account_button": "Follow",
+            "account_link": "",
+            "button_external": false,
+            "color_text": "#ffffff",
+            "color_button_text": "#000000",
+            "color_button_background": "#ffffff",
+            "color_button_gradient": "",
+            "hotspot_color_text_1": "#ffffff",
+            "hotspot_vertical_1": 45,
+            "hotspot_horizontal_1": 25,
+            "hotspot_product_1": "",
+            "hotspot_color_text_2": "#ffffff",
+            "hotspot_vertical_2": 30,
+            "hotspot_horizontal_2": 65,
+            "hotspot_product_2": "",
+            "hotspot_color_text_3": "#ffffff",
+            "hotspot_vertical_3": 60,
+            "hotspot_horizontal_3": 75,
+            "hotspot_product_3": "",
+            "hotspot_color_text_4": "#ffffff",
+            "hotspot_vertical_4": 50,
+            "hotspot_horizontal_4": 50,
+            "hotspot_product_4": ""
+          }
+        },
+        "feed_ck4XkF": {
+          "type": "feed",
+          "settings": {
+            "image": "shopify://shop_images/ChatGPT_Image_17_mai_2025_17_49_23.png",
+            "video_on_hover": true,
+            "account_name": "Shadow. Le pouvoir du silence.Laisse le style parler pour toi.",
+            "account_description": "➤ Performance sonore. Look invisible, impact maximal.",
+            "account_button": "",
+            "account_link": "",
+            "button_external": false,
+            "color_text": "#ffffff",
+            "color_button_text": "#000000",
+            "color_button_background": "#ffffff",
+            "color_button_gradient": "",
+            "hotspot_color_text_1": "#ffffff",
+            "hotspot_vertical_1": 45,
+            "hotspot_horizontal_1": 25,
+            "hotspot_product_1": "",
+            "hotspot_color_text_2": "#ffffff",
+            "hotspot_vertical_2": 30,
+            "hotspot_horizontal_2": 65,
+            "hotspot_product_2": "",
+            "hotspot_color_text_3": "#ffffff",
+            "hotspot_vertical_3": 60,
+            "hotspot_horizontal_3": 75,
+            "hotspot_product_3": "",
+            "hotspot_color_text_4": "#ffffff",
+            "hotspot_vertical_4": 50,
+            "hotspot_horizontal_4": 50,
+            "hotspot_product_4": ""
+          }
+        },
         "feed-3": {
           "type": "feed",
           "settings": {
@@ -816,6 +879,8 @@
       "block_order": [
         "feed-1",
         "feed-2",
+        "feed_WwY6TY",
+        "feed_ck4XkF",
         "feed-3"
       ],
       "settings": {
