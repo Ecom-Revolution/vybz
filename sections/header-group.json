@@ -11,6 +11,41 @@
   "type": "header",
   "name": "t:sections.header-group.name",
   "sections": {
+    "scrolling_text_PGFCm3": {
+      "type": "scrolling-text",
+      "blocks": {
+        "text_tMPMxM": {
+          "type": "text",
+          "settings": {
+            "text": "<em><strong>🔥 30€ DE REMISE JUSQU'À 00H00 🔥</strong></em>",
+            "text_size": 44,
+            "text_font": "heading",
+            "highlighted_text": "text",
+            "highlighted_scribble": "circle"
+          }
+        }
+      },
+      "block_order": [
+        "text_tMPMxM"
+      ],
+      "name": "t:sections.scrolling-text.presets.name",
+      "settings": {
+        "direction": "left",
+        "speed": 30,
+        "grid_horizontal": 70,
+        "enable_twin": false,
+        "enable_parallax": true,
+        "color_text": "",
+        "color_background": "",
+        "gradient_background": "",
+        "color_highlight": "",
+        "gradient_highlight": "",
+        "padding_top": 12,
+        "padding_bottom": 12,
+        "divider": false,
+        "rounded": false
+      }
+    },
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
@@ -91,6 +126,7 @@
     }
   },
   "order": [
+    "scrolling_text_PGFCm3",
     "announcement-bar",
     "header"
   ]
