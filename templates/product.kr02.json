@@ -159,8 +159,8 @@
         "countdown_GNPLEN": {
           "type": "countdown",
           "settings": {
-            "heading": "Hurry up!",
-            "subheading": "Sale end in:",
+            "heading": "REMISE EXCEPTIONNELLE",
+            "subheading": "Fin de l'offre :",
             "color_text": "#ff0033",
             "color_background": "#171717",
             "gradient_background": ""
