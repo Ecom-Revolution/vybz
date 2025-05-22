@@ -585,7 +585,7 @@
   },
   "shopify": {
     "links": {
-      "powered_by_shopify": "Tous droits réservés"
+      "powered_by_shopify": "Boutique créée par <a href=\"https://revolution-ecom.myshopify.com/\" target=\"_blank\" style=\"text-decoration: underline;\">Revolution Ecom</a>."
     }
   }
 }
