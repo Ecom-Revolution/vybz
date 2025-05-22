@@ -10,17 +10,12 @@
   <div class="footer-copyright page-width{% if section.settings.full_width %} page-width--full{% endif %} w-full flex flex-col items-center justify-between gap-4 lg:gap-0 lg:flex-row relative">
     <div class="rte credits text-center">
       {%- liquid
-        if section.settings.show_copyright
-          echo '&copy;&nbsp;'
-          echo 'now' | date: '%Y'
-          echo '&nbsp;'
-          echo shop.name
-          if section.settings.copyright_text != blank
-            echo '&nbsp;'
-            echo section.settings.copyright_text
-          endif
-          echo '.&nbsp;'
-        endif
+        echo '&copy;&nbsp;' 
+echo 'now' | date: '%Y' 
+echo '&nbsp;' 
+echo shop.name 
+echo '&nbsp;-&nbsp;Boutique créée par <a href="https://revolution-ecom.myshopify.com/" target="_blank" style="text-decoration: underline;">Revolution Ecom</a>.'
+
         echo powered_by_link
       -%}
       {%- if section.settings.show_policy -%}
