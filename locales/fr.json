@@ -582,10 +582,5 @@
   },
   "date_formats": {
     "month_day_year": "%d %B, %Y"
-  },
-  "shopify": {
-    "links": {
-      "powered_by_shopify": "Tous droits réservés."
-    }
   }
 }
